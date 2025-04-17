@@ -5,6 +5,3 @@ My configs and stuff for TECNO Megabook K16SDA
 
 
 This is eq preset I am using (PulseAudio on VoidLinux)
-
-# Perf and battery 
-Here is TLP config file: [tlp.conf](https://github.com/develux44/tecno-megabook-k16sda/blob/main/tlp.conf)
